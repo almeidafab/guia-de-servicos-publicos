@@ -14,4 +14,5 @@
    * [Funcionalidades do Editor](funcionalidades_do_editor.md)
 * [Perfis de acesso ao Editor de Serviço](perfis_de_acesso_ao_editor_de_servico.md)
    * [Perfis para os Órgãos](perfis_para_os_orgaos.md)
+   * Perfil para o Órgão Central do Portal de Serviços
 

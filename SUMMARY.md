@@ -10,5 +10,5 @@
        * [Dados Básicos](dados_basicos.md)
        * [Solicitantes](solicitantes.md)
        * [Etapas do Serviço](etapas_do_servico.md)
-       * Outras Informações
+       * [Outras Informações](outras_informacoes.md)
 

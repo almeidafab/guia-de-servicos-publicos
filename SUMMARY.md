@@ -17,5 +17,5 @@
    * [Perfil para o Órgão Central do Portal de Serviços](perfil_para_o_orgao_central_do_portal_de_servicos.md)
    * [Perfil para usuário não autenticado](perfil_para_usuario_nao_autenticado.md)
    * [Permissões e Perfis](permissoes_e_perfis.md)
-   * Cadastro de novos usuários
+   * [Cadastro de novos usuários](cadastro_de_novos_usuarios.md)
 

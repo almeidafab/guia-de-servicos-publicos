@@ -20,4 +20,5 @@
    * [Cadastro de novos usuários](cadastro_de_novos_usuarios.md)
    * [Responsabilidades dos perfis](responsabilidades_dos_perfis.md)
 * [Carta de Serviços Eletrônica do Órgão](carta_de_servicos_eletronica_do_orgao.md)
+   * Compondo a Carta de Serviços Eletrônica do Órgão
 

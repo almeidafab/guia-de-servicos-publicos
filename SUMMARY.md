@@ -21,5 +21,5 @@
    * [Responsabilidades dos perfis](responsabilidades_dos_perfis.md)
 * [Carta de Serviços Eletrônica do Órgão](carta_de_servicos_eletronica_do_orgao.md)
    * [Compondo a Carta de Serviços Eletrônica do Órgão](compondo_a_carta_de_servicos_eletronica_do_orgao.md)
-   * Consolidando a Carta de Serviços Eletrônica do Órgão
+   * [Consolidando a Carta de Serviços Eletrônica do Órgão](consolidando_a_carta_de_servicos_eletronica_do_org.md)
 

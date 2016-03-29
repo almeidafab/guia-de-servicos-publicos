@@ -18,5 +18,5 @@
    * [Perfil para usuário não autenticado](perfil_para_usuario_nao_autenticado.md)
    * [Permissões e Perfis](permissoes_e_perfis.md)
    * [Cadastro de novos usuários](cadastro_de_novos_usuarios.md)
-   * Responsabilidades dos perfis
+   * [Responsabilidades dos perfis](responsabilidades_dos_perfis.md)
 

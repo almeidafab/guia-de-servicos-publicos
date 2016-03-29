@@ -12,5 +12,5 @@
        * [Etapas do Serviço](etapas_do_servico.md)
        * [Outras Informações](outras_informacoes.md)
    * [Funcionalidades do Editor](funcionalidades_do_editor.md)
-* Perfis de acesso ao Editor de Serviço
+* [Perfis de acesso ao Editor de Serviço](perfis_de_acesso_ao_editor_de_servico.md)
 

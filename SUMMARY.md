@@ -9,5 +9,5 @@
    * [Criando um Serviço no Editor](criando_um_servico_no_editor.md)
        * [Dados Básicos](dados_basicos.md)
        * [Solicitantes](solicitantes.md)
-       * Etapas do Serviço
+       * [Etapas do Serviço](etapas_do_servico.md)
 

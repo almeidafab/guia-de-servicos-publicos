@@ -12,12 +12,14 @@
 
 ATENÇÃO: É importante ressaltar que a busca executada pelo Portal de Serviços considera os seguintes campos: Nome do serviço, Nomes populares, Descrição do serviço e Palavras-chave. A busca também considera os campos cadastrados na criação de páginas dos órgãos e páginas temáticas.
 
-**Legislações relacionadas ao serviço***: insira o link dos normativos, preferencialmente a partir do LexML (www.lexml.gov.br). Ex: www.lexml.gov.br/urn/urn:lex:br:federal:lei:1990-12-11;8112
+**Legislações relacionadas ao serviço***: insira o link dos normativos, preferencialmente a partir do LexML (www.lexml.gov.br). Ex: www.lexml.gov.br/urn/urn:lex:br:federal:lei:1990-12-11;8112  
 
 
+![](imagens/Outras_Informacoes_1.png)
+Figura 6 – Outras informações, parte I  
 
-Figura 6 – Outras informações, parte I
+![](imagens/Outras_Informacoes_2.png)
+Figura 7 – Outras informações, parte II  
 
-Figura 7 – Outras informações, parte II
-
+![](imagens/Outras_Informacoes_3.png)
 Figura 8 – Outras informações, parte III

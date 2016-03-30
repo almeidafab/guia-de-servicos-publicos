@@ -6,4 +6,4 @@ Em complemento, a organização destas informações traz aos servidores públic
 
 Para fins de publicação no Portal de Serviços, serviços públicos são entendidos como todos aqueles procedimentos entre a sociedade e a Administração Pública para cumprimento de deveres ou acesso a direitos que requeiram algum instrumento de interação, como por exemplo: formulários de requerimento, inscrição, cadastramento, consulta; seja por meio eletrônico ou presencial.
 
-Dessa forma, a Carta de Serviços deve ser construída e atualizada com participação de um número representativo de pessoas na instituição que possam garantir a completude e correção das informações levantadas. Visando também a melhoria na qualidade das informações geradas, recomenda-se a realização de consultas públicas sempre que a Carta de Serviço Eletrônica precisar ser atualizada, o que deve ser periodicamente.
+Dessa forma, a Carta de Serviços deve ser construída e atualizada, periodicamente, com participação de um número representativo de pessoas na instituição que possam garantir a completude e correção das informações levantadas.

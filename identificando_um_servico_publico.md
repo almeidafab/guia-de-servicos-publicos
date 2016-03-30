@@ -8,7 +8,7 @@ O Portal de Serviços, através da ferramenta Editor de Serviços Públicos perm
 
 A identificação de um serviço deverá considerar os seguintes critérios para a definição de um serviço:
 
-Ao final do serviço o solicitante deverá ter um direito concretizado ou um dever realizado por completo;
-Identificar o que é o serviço, quem pode utilizar e buscar palavras-chave que auxiliam a identificação do serviço pelo solicitante são elementos de caracterização do Serviço;
-Deve ser possível identificar as etapas, custos, documentos e afins que compõe a execução do serviço por parte da sociedade;
-É usual haver uma normatização que defina as regras de acesso ao serviço público. Essa normatização poderá dar elementos de apoio à identificação e descrição dos dados de acesso.
+* Ao final do serviço o solicitante deverá ter um direito concretizado ou um dever realizado por completo;
+* Identificar o que é o serviço, quem pode utilizar e buscar palavras-chave que auxiliam a identificação do serviço pelo solicitante são elementos de caracterização do Serviço;
+* Deve ser possível identificar as etapas, custos, documentos e afins que compõe a execução do serviço por parte da sociedade;
+* É usual haver uma normatização que defina as regras de acesso ao serviço público. Essa normatização poderá dar elementos de apoio à identificação e descrição dos dados de acesso.

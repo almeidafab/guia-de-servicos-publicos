@@ -22,14 +22,14 @@ A identificação de cada etapa do serviço deverá considerar os seguintes crit
 
 **Documentação necessária para a etapa***: descreva documentos, certidões ou declarações necessárias para essa etapa. Exemplo: Registro Geral (RG), Cadastro de Pessoa Física (CPF), Certidão de Antecedentes Criminais, Certidão de Quitação Eleitoral, Carteira de Trabalho etc.
 
-ATENÇÃO: Há casos em que a documentação muda conforme algumas situações. Assim, é possível adicionar algumas “exceções” na opção “Adicionar caso”. Exemplo: para crianças menores de 12 anos, é possível apresentar a certidão de nascimento em substituição ao documento de identidade.
+ATENÇÃO: Há casos em que a documentação muda conforme algumas situações. Assim, é possível adicionar algumas “exceções” na opção “**Adicionar caso**”. Exemplo: para crianças menores de 12 anos, é possível apresentar a certidão de nascimento em substituição ao documento de identidade.
 
 **Custos da etapa**: informe a estimativa mais fiel possível com relação aos custos ou taxas sobre essa etapa. Exemplo: matrícula, R$ 20,00.
 
-ATENÇÃO: Há casos em que o custo muda conforme algumas situações. Assim, é possível adicionar algumas “exceções” na opção “Adicionar caso”. Exemplo: para alunos matriculados em instituições públicas de ensino a matrícula é gratuita.
+ATENÇÃO: Há casos em que o custo muda conforme algumas situações. Assim, é possível adicionar algumas “exceções” na opção “**Adicionar caso**”. Exemplo: para alunos matriculados em instituições públicas de ensino a matrícula é gratuita.
 
 **Canais de prestação da etapa***: informe os canais de prestação disponíveis para realizar essa etapa dentre as opções: aplicativo móvel, e-mail, fax, postal, presencial, SMS, telefone, Web: Acompanhar, Agendar, Calcular taxas, Consultar, Declarar, Emitir, Inscrever-se, Postos de Atendimento, Preencher, Simular.
 
-ATENÇÃO: Há casos em que o canal muda conforme algumas situações. Assim, é possível adicionar algumas “exceções” na opção “Adicionar caso”. Exemplo: a emissão de passaporte comum para estrangeiros, em território nacional, será solicitada junto ao Departamento de Polícia Federal e, no exterior, pelas repartições consulares.
+ATENÇÃO: Há casos em que o canal muda conforme algumas situações. Assim, é possível adicionar algumas “exceções” na opção “**Adicionar caso**”. Exemplo: a emissão de passaporte comum para estrangeiros, em território nacional, será solicitada junto ao Departamento de Polícia Federal e, no exterior, pelas repartições consulares.
 
 Figura 5 – Etapas

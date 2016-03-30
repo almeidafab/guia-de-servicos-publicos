@@ -13,9 +13,9 @@ Uma página funcional para teste pode ser vista em barra.governoeletronico.gov.b
 
 Cada órgão deve procurar o seu código no site do SIORG disponível no endereço https://siorg.planejamento.gov.br/siorg-cidadao-webapp/pages/listar_orgaos_estruturas/listar_orgaos_estruturas.jsf Abaixo segue um exemplo de código html adicionado na página com a tag requerida em destaque apontando para o id do Ministério do Planejamento (2981).
 
-<!DOCTYPE html>
-<html lang="pt-BR">
- <head>
+        <!DOCTYPE html>
+        <html lang="pt-BR">
+        <head>
                   <meta charset="utf-8" />
                   <meta name=viewport content="width=device-width, initial-scale=1">
                   <meta property="creator.productor" content="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/2981"/>

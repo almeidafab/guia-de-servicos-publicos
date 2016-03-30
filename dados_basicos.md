@@ -20,7 +20,7 @@ ATENÇÃO: os itens indicados com asterisco (*) devem ser obrigatoriamente infor
 **Gratuidade deste serviço***: refere-se à existência, ou não, de algum custo para o solicitante.
 
 ![](imagens/Dados_Basicos_1.png)
+Figura 2 – Dados básicos, parte I  
 
-Figura 2 – Dados básicos, parte I
 ![](imagens/Dados_Basicos_2.png)
 Figura 3 – Dados básicos, parte II

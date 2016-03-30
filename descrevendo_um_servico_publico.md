@@ -14,7 +14,7 @@ Passo 3: Uma segunda pessoa deve revisar o conteúdo escrito inicialmente ("segu
 Passo 4: Checar os fatos e verificar se todas as informações estão corretas;
 Passo 5: Publicar o conteúdo;
 Passo 6: Revisar os dados de uso do conteúdo;
-Passo 7: Verificar periodicamente conteúdo das manifestações dos cidadãos no site do e-ouv sob responsabilidade da CGU (https://sistema.ouvidorias.gov.br). Para isso, a CGU deverá ser consultada para fornecimento das informações.
+Passo 7: Verificar periodicamente conteúdo das manifestações dos cidadãos no site do e-ouv sob responsabilidade da CGU (https://sistema.ouvidorias.gov.br). Para isso, a CGU deverá ser consultada para fornecimento das informações;
 Passo 8: Iterar para melhorar o conteúdo periodicamente.
 
 

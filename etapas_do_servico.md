@@ -30,6 +30,7 @@ ATENÇÃO: Há casos em que o custo muda conforme algumas situações. Assim, é
 
 **Canais de prestação da etapa***: informe os canais de prestação disponíveis para realizar essa etapa dentre as opções: aplicativo móvel, e-mail, fax, postal, presencial, SMS, telefone, Web: Acompanhar, Agendar, Calcular taxas, Consultar, Declarar, Emitir, Inscrever-se, Postos de Atendimento, Preencher, Simular.
 
-ATENÇÃO: Há casos em que o canal muda conforme algumas situações. Assim, é possível adicionar algumas “exceções” na opção “**Adicionar caso**”. Exemplo: a emissão de passaporte comum para estrangeiros, em território nacional, será solicitada junto ao Departamento de Polícia Federal e, no exterior, pelas repartições consulares.
+ATENÇÃO: Há casos em que o canal muda conforme algumas situações. Assim, é possível adicionar algumas “exceções” na opção “**Adicionar caso**”. Exemplo: a emissão de passaporte comum para estrangeiros, em território nacional, será solicitada junto ao Departamento de Polícia Federal e, no exterior, pelas repartições consulares.  
 
+![](imagens/Etapas.png)
 Figura 5 – Etapas

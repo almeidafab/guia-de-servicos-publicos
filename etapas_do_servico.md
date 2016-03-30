@@ -32,6 +32,6 @@ ATENÇÃO: Há casos em que o custo muda conforme algumas situações. Assim, é
 
 ATENÇÃO: Há casos em que o canal muda conforme algumas situações. Assim, é possível adicionar algumas “exceções” na opção “**Adicionar caso**”. Exemplo: a emissão de passaporte comum para estrangeiros, em território nacional, será solicitada junto ao Departamento de Polícia Federal e, no exterior, pelas repartições consulares.  
 
-![](imagens/Etapas.png)
+![](imagens/Etapas.png)  
 
 Figura 5 – Etapas

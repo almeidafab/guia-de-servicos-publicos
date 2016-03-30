@@ -7,6 +7,7 @@ Ao acessar a opção “Nova Página”, localizada na barra superior, é possí
 * **Serviço Público**: são as páginas dos serviços públicos dos órgãos disponibilizados no Portal de Serviços. Um novo serviço pode ser criado e salvo a qualquer momento utilizando o Editor de Serviços. A criação de um serviço é dividida em quatro partes: dados básicos, solicitantes, etapas do serviço e outras informações;
 * **Serviço Público utilizando XML**: outra forma de criar serviços é com a importação de um arquivo XML que contém informações de um serviço. Esse arquivo estará disponibilizado em local remoto e deverá ser acessado a partir de um link. O formato e regras pra elaboração destes arquivos estão descritos em outro documento que poderá ser disponibilizado pelo MP a pedido do órgão caso opte por esta opção de criação de serviço.
 
+
 Figura 1 – Tipo de página
 
 Um novo serviço pode ser criado e salvo a qualquer momento utilizando o Editor de Serviços. A criação de um serviço é dividida em quatro partes: dados básicos, solicitantes, etapas do serviço e outras informações.

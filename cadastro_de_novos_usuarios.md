@@ -1,6 +1,6 @@
 # Cadastro de novos usuários
 
-Novos usuários podem ser cadastrados a qualquer momento por Administradores,  Pontos Focais e Publicadores. O órgão interessado em cadastrar novos usuários, deverá solicitar, via e-mail para os responsáveis pelo Portal (**servicos@planejamento.gov.br**), a criação de um perfil de Ponto Focal e este, ficará responsável por cadastrar os editores e publicadores do seu órgão. 
+Novos usuários podem ser cadastrados a qualquer momento por Administradores,  Pontos Focais e Publicadores. O órgão interessado em cadastrar novos usuários, deverá solicitar, via e-mail aos responsáveis pelo Portal (**servicos@planejamento.gov.br**), a criação de um perfil de Ponto Focal e este, ficará responsável por cadastrar os Editores e Publicadores do seu órgão. 
 
 De forma a dar transparência ao processo e para dar ciência às principais áreas interessadas no órgão com relação ao tema "Serviços" sugere-se copiar no e-mail de solicitação de cadastro do ponto focal os servidores que possuam as seguintes atribuições, além de outros que o órgão julgue necessário:
 
@@ -19,4 +19,4 @@ O e-mail deverá conter as seguintes informações:
 * Nome do órgão;
 * Número do Siape.
 
-Os novos usuários deverão ser informados após criação de seu cadastro através de um e-mail a ser mandado pelo Ponto Focal com o link para definição da senha de acesso ao Editor de Serviços (www.servicos.gov.br/editar).
+Os novos usuários deverão ser informados após criação de seu cadastro por meio de um e-mail a ser mandado pelo Ponto Focal, que deverá conter link para definição da senha de acesso ao Editor de Serviços (www.servicos.gov.br/editar).

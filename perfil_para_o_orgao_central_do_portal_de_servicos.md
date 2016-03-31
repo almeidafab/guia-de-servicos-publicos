@@ -1,3 +1,3 @@
-# Perfil para o Órgão Central do Portal de Serviços
+# Perfil para o órgão central do Portal de Serviços
 
-* **Administrador**: responsável pelo funcionamento e gerenciamento geral de permissões da ferramenta, não tem acesso a ações como criar, editar, salvar ou publicar serviços e páginas de órgãos. Sua função é estrutural, podendo cadastrar e excluir Pontos Focais. Também é o único perfil que pode publicar/despublicar páginas temáticas. Tipicamente, são servidores públicos alocados na área responsável pela manutenção do Portal e do Editor de Serviços como um todo.
+* **Administrador**: responsável pelo funcionamento e gerenciamento geral de permissões da ferramenta. Não tem acesso a ações como criar, editar, salvar ou publicar serviços e páginas de órgãos. Sua função é estrutural, podendo cadastrar e excluir Pontos Focais. Também é o único perfil que pode publicar/despublicar páginas temáticas. Tipicamente, são servidores públicos alocados na unidade administrativa responsável pela manutenção do Portal e do Editor de Serviços.

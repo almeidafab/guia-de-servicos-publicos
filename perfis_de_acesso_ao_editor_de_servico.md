@@ -1,3 +1,3 @@
 # Perfis de acesso ao Editor de Serviço
 
-Para cadastrar um serviço no portal se faz necessário acessar o Editor de Serviço que dispõe de cinco perfis de acesso. Três deles destinam-se ao uso dos gestores dos órgãos, que são o “Ponto focal”, o “Publicador” e o “Editor de Serviços”. O perfil de Administrador é de uso exclusivo do Órgão Central que administra o Portal. Há também um perfil para o usuário não autenticado que poderá colaborar para a melhoria do ambiente e dos serviços.
+Para cadastrar um serviço no portal se faz necessário acessar o Editor de Serviço que dispõe de cinco perfis de acesso. Três deles destinam-se ao uso dos gestores dos órgãos, que são o “Ponto focal”, o “Publicador” e o “Editor de Serviços”. O perfil de Administrador é de uso exclusivo do órgão central que administra o Portal. Há também um perfil para o usuário não autenticado que poderá colaborar para a melhoria do ambiente e dos serviços.

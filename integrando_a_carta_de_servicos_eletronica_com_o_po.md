@@ -2,6 +2,7 @@
 
 A integração é realizada a partir da Barra Brasil mostrada na Figura abaixo. O objetivo é fazer com que o cidadão acesse a Carta de Serviços Eletrônica diretamente ao selecionar a opção “Serviços” na Barra Brasil presente no portal institucional do órgão. Sendo assim, o contexto da navegação será mantido.
 
+![](imagens/barra-brasil.png)
 Figura 12: Barra Brasil
 
 Para isso, basta realizar o seguinte procedimento:

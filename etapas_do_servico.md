@@ -2,7 +2,7 @@
 
 O detalhamento da descrição de um Serviço Público consiste na definição das etapas do serviço. Todos os momentos de interação entre a sociedade e o órgão (ou delegatório) devem ser elencados em uma ou mais etapas. 
 
-Cada etapa caracteriza-se pelo canal de interação, custo e documentos requeridos. Em sua descrição deve-se estar atento pois, muitas vezes, ao identificar um serviço, percebe-se que trata-se de uma etapa de um outro serviço (ex.: “Agendar Atendimento na Previdência Social” é uma etapa do serviço “Obter auxílio-doença”), pois apenas em conjunto o solicitante alcança de fato um direito ou completa sua jornada de cumprimento de um dever. Neste caso, o órgão deve promover evoluções na Carta de Serviços com vistas a melhor orientar o solicitante.
+Cada etapa caracteriza-se pelo canal de interação, custo e documentos requeridos. Em sua descrição deve-se estar atento pois, muitas vezes, ao identificar um serviço, percebe-se que se trata de uma etapa de um outro serviço (ex.: “Agendar Atendimento na Previdência Social” é uma etapa do serviço “Obter auxílio-doença”), pois apenas em conjunto o solicitante alcança de fato um direito ou completa sua jornada de cumprimento de um dever. Neste caso, o órgão deve promover evoluções na Carta de Serviços com vistas a melhor orientar o solicitante.
 
 A identificação de cada etapa do serviço deverá considerar os seguintes critérios:
 
@@ -10,7 +10,7 @@ A identificação de cada etapa do serviço deverá considerar os seguintes crit
 * Identificar as informações necessárias para caracterizar a etapa: descrição da etapa, documentos necessários, custo, canais de prestação;
 * Identificar os casos específicos em que há diferenças na documentação, custos e canais de prestação dentro de cada etapa;
 * Deve ser possível identificar o início e final da etapa de forma precisa para o solicitante;
-* É possível que haja sequências de etapas diferentes conforme o público (ex.: estudantes de escola pública, menores de idade, aposentados etc) ou conforme alguma condição específica prevista na prestação do serviço (ex.: passaporte de emergência). A descrição será feita, então, através da criação de um novo serviço. Sugere-se também, nestes casos, a criação de página temática que enquadre os vários serviços relacionados.
+* É possível que haja sequências de etapas diferentes conforme o público (ex.: estudantes de escola pública, menores de idade, aposentados etc) ou conforme alguma condição específica prevista na prestação do serviço (ex.: passaporte de emergência). A descrição deverá ser feita, então, através da criação de um novo serviço. Sugere-se também, nestes casos, a criação de página temática que enquadre os vários serviços relacionados.
 
 **Título da etapa***: escreva um título que indica de forma simples o objetivo dessa etapa. Exemplos:
 

@@ -1,4 +1,4 @@
-# Perfis para os Órgãos
+# Perfis para os órgãos e entidades
 
 * **Ponto Focal**: responsável pelo gerenciamento do cadastro de editores e publicadores. Os publicadores necessariamente precisam ser do órgão ao qual faz parte. Também possui permissões para realizar quaisquer operações nas páginas de serviços e na página do órgão a que pertence.
 

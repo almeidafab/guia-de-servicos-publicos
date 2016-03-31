@@ -9,7 +9,7 @@ ATENÇÃO: os itens indicados com asterisco (*) devem ser obrigatoriamente infor
 * Tenha certeza que o título do serviço criado é único, pois serviços com nomes muito parecidos podem confundir os cidadãos em uma lista de resultados, por exemplo;
 * Utilize o motivo do serviço no início do título, deixando claro para que ele serve nas primeiras palavras.
 
-**Sigla do serviço**: se o nome deste serviço possuir uma sigla, inclua-a neste campo. Exemplo: CNH.
+**Sigla do serviço**: se o nome deste serviço fizer remissão a um termo cuja sigla é consolidada, inclua-a neste campo. Exemplo: CNH.
 
 **Nomes populares**: caso este serviço seja conhecido por nomes populares, liste-os nesse campo. Exemplo: carta de motorista.
 

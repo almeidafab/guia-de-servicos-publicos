@@ -2,7 +2,7 @@
 
 A tabela a seguir apresenta as permissões de acesso de cada perfil para as funcionalidades do Editor de Serviços:  
 
-| Permissões | Administrador | Ponto Focal | Publicador | Editor | Usuário não logado |
+| Permissões | Administrador | Ponto Focal | Publicador | Editor | Usuário não autenticado |
 | -- | :--: | :--: | :--: | :--: | :--: |
 | Serviço: Criar | x | v | v | v | x |
 | Serviço: Editar e salvar | x | v | v | v | v |

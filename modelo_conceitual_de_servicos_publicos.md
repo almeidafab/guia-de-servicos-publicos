@@ -6,8 +6,6 @@ Em relação a este documento e ao funcionamento do Portal de Serviços, são es
 
 **Serviço Público**: é a ação do Estado para atender às demandas da sociedade, relativas ao exercício de um direito ou ao cumprimento de um dever. Está associado ao resultado que a sociedade enxerga que é entregue a si, seja ele tangível ou intangível. É composto por uma ou mais etapas.
 
-ATENÇÃO: por direito exercido ou dever cumprido, entende-se o valor agregado ao Solicitante após a obtenção do Serviço Público, ou seja, o benefício imaterial/intangível do qual o Solicitante poderá usufruir ou ver disponibilizado a si e/ou à coletividade.
-
 **Etapas**: cada interação do solicitante com o Estado para a obtenção de um Serviço Público, que ocorre por meio de um ou mais Canais de Prestação. Cada etapa, portanto, pressupõe necessariamente a participação do solicitante junto ao Estado.
 
 **Canal de Prestação**: meio de comunicação ou de relacionamento pelo qual o solicitante interage com o Estado, em cada Etapa, para a obtenção do Serviço Público.

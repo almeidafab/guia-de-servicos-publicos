@@ -1,4 +1,4 @@
-# Gestão das Informações do Sítio de Serviços
+# Gestão das Informações do Portal de Serviços
 
 Ao cadastrar os serviços no Portal de Serviços, o gestor deve considerar as seguintes premissas:
 
